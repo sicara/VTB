@@ -1,0 +1,10 @@
+{
+  "generator-sicarator": {
+    "promptValues": {
+      "projectDescription": "teach sicara's biz profiles tech",
+      "authorName": "NoAchache",
+      "authorEmail": "noe.achache@sicara.com",
+      "ci": ".circleci"
+    }
+  }
+}
