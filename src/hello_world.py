@@ -48,7 +48,3 @@ def not_a_function() -> None:
 
     hello_world()
 
-
-def not_a_function_python() -> None:
-
-    print("Hello World!")
