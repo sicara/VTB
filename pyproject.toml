@@ -7,7 +7,7 @@ authors = [
 ]
 
 [tool.poetry.dependencies]
-python = "3.9.13"
+python = "3.9.11"
 
 [tool.poetry.dev-dependencies]
 isort = "^5"
